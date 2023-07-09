@@ -1,0 +1,40 @@
+Assignment 13
+Date: 31.05.2023
+Author: Yonatan Bebchuk
+Grade: 100
+Subject: Inside and outside the “Republic”, Jonathan Lear
+
+
+Question 1
+
+In what way, according to Plato, does a virtuous person have a healthy soul?
+
+In the Republic Plato introduces a psychology in which the soul is tripartite, composed of reason, spirit, and appetite. The rational part of the soul represents our intellect, the spirited part our emotions, and the appetitive our desires. A healthy soul, according to Plato is one in which there is harmony between these parts. This harmonious relationship exists in the soul when reason governs the spirit and appetite.
+
+Plato argues that just like physical health involves a harmonious relationship between the bodies organs, the health of the soul involves a harmonious relationship between the parts of the soul.
+
+According to Plato virtue arises from the proper balance and integration of the three parts. For example, courage is the ability of the spirited part of the soul to align itself with reason, resisting the temptations of the appetitive part.
+
+We can see that “virtue then would be a kind of health […] of the soul, and vice would be disease” thus insinuating that the virtuous person is one with a healthy soul.
+
+Question 2
+
+On basis of Lear’s “Inside and Outside the Republic”, explain and demonstrate how a sick Soul can be caused by sickness in the Polis.
+
+In Lear’s “Inside and Outside the `Republic`” we are introduced to the concepts of internalization and externalization. Internalization is the “process of taking cultural influences into the psyche.” Externalization is the “process […] by which […] a person fashions something in the external world according to a likeness in his psyche.” Lear uses these concepts to illustrate the isomorphism that Plato makes between soul and Polis as “jointly constituted by reciprocal internalizations and externalizations.” These concepts can be used to show how disharmony in the Polis can cause disharmony in the soul. Insofar as disharmony insinuates sickness, we can show how a sick Polis can cause sick soul.
+
+Lear gives an example of such an occasion. In the Republic Plato gives an account of the emergence of the democratic man. The democratic man is the son of the oligarchical man who has an interpsychic conflict. He is driven by the appetitive part of his soul in pursuit of wealth and able to hold in place his appetitive part only by brute force. He externalizes this state onto his environment. In his house he is frugal (his repression of his appetitive part) and outside he encourages others to spend (his pursuit of wealth). His son, which wasn’t able to internalize culture like his father, is unable to repress, even by brute force, his appetitive part. Now that, by process of externalization, his environment has become similar to his father’s soul, the son is unable to repress his appetite and indulges it. This gives rise to a poor population of spenders who “ally revolt and usher in democracy”, which Plato considers a diseased state.
+
+Thus, we can see how the son of the oligarchic father internalizes the sickness of the Polis and his soul becomes sick as well, that is, how sickness in the Polis can cause sickness in the soul.
+
+Question 3
+
+How is the relationship between virtues and a healthy soul related to the fact that virtue ethics has no Naturalistic Fallacy?
+
+The relationship between a healthy soul and virtues is an example of the absence of the Naturalistic Fallacy in virtue ethics.
+
+The psychology Plato introduces in the Republic is one of a tripartite soul. Each part has its own function and only by harmony between these parts is the soul “healthy”. Virtues are signs of a healthy soul insofar as a healthy soul is a virtuous one and vice versa. The use of the word “healthy” is an analogy to the body in which each part has a function and only through a harmonious relationship is the body considered healthy. 
+
+The naturalistic fallacy claims that one cannot derive “ought” sentences from “is” sentences, i.e. one cannot derive moral statements from factual ones. If the health of the soul is established and the existence of virtues is merely the outcome of a healthy soul, then there is no difficulty in deriving moral statements from factual ones. In Anscombe’s “Modern Moral Philosophy”, she provides a proof against the naturalistic fallacy. She asserts that if we can determine the function of something we can also derive ethical judgments about it. Anscombe gives an example of a plant that needs water. In this case “the inference from `is` to `needs` is certainly not in the least dubious.” The plant’s function is to grow, since water enables it to do so, and the absence of water hinders it from growing we can say that a “plant needs water”.
+
+In defining a healthy soul Plato assigns a function to the soul. The function of the soul is to be healthy, just as the function of the body is to be healthy, or the plant to grow. Since virtues make the soul healthy (and a healthy soul possesses virtues) we can say that one ought to be virtuous.
